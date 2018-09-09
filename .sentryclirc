@@ -1,0 +1,5 @@
+[defaults]
+  org = iquantex
+  project = personaltest
+[auth]
+  token = a75f4599e6384f61becebc19c8d5c709442f1b7f536448d9b720f85bcbff1d6f
